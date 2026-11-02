@@ -294,7 +294,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -855,7 +855,7 @@
       {
         "filename": "controller.kicad_sch",
         "name": "controller",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "fb533244-de96-4484-8338-506bd07cc506"
       }
     ],
     "used_designators": "",
@@ -864,7 +864,7 @@
   "sheets": [
     [
       "fb533244-de96-4484-8338-506bd07cc506",
-      "Root"
+      "controller"
     ],
     [
       "00000000-0000-0000-0000-00005f33816d",
