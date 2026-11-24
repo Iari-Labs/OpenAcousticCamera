@@ -16359,29 +16359,6 @@
 		)
 		(uuid "ffb04ac0-4080-46d9-b903-e456a19aaf2b")
 	)
-	(global_label "SYS_PG"
-		(shape output)
-		(at 252.73 194.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b2a527ce-7536-4039-a64f-a5d7fa3289dc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 252.73 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
 	(hierarchical_label "PHY_MDC"
 		(shape output)
 		(at 311.15 97.79 0)
@@ -16580,6 +16557,17 @@
 		)
 		(uuid "8f9854e0-5212-4f1d-b5b0-ea532f7d05d1")
 	)
+	(hierarchical_label "SYS_PG"
+		(shape output)
+		(at 252.73 194.31 180)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify right)
+		)
+		(uuid "a072750f-3c69-4061-b452-86c3a276475e")
+	)
 	(hierarchical_label "RGMII_RXC"
 		(shape input)
 		(at 252.73 97.79 180)
@@ -16733,6 +16721,17 @@
 			(justify left)
 		)
 		(uuid "fca266b7-3cd8-4db5-81be-8220c66b9f59")
+	)
+	(hierarchical_label "PWR_MUX_ST"
+		(shape input)
+		(at 228.6 151.13 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "fed60d3c-66a5-412b-9dd0-7923385b82c5")
 	)
 	(hierarchical_label "PHY_SFD0"
 		(shape input)

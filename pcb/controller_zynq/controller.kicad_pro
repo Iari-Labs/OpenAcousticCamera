@@ -839,7 +839,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 4,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
@@ -862,7 +862,7 @@
         "uuid": "fb533244-de96-4484-8338-506bd07cc506"
       }
     ],
-    "used_designators": "MD1",
+    "used_designators": "#PWR1,#PWR9,#PWR11,#PWR13,#PWR15-16,#PWR25-26,#PWR31-32,#PWR56-58,#PWR61,#PWR63,#PWR926-928,#PWR945,C5,C14,C34,C41-42,C907-908,C910,D3,MD1,R7-8,R13,R15,R23-24,R906,TP7,U20",
     "variants": []
   },
   "sheets": [
